@@ -1,0 +1,22 @@
+{
+  "name": "explicit-any",
+  "version": "1.0.0",
+  "description": "Example patterns for replacing explicit any's",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "any",
+    "explicit-any"
+  ],
+  "author": "Michael Timbs",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
